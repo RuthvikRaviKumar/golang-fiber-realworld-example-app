@@ -10,7 +10,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.1.0
 	github.com/gosimple/slug v1.11.2
 	github.com/stretchr/testify v1.7.0
-	github.com/swaggo/swag v1.8.3
+	github.com/swaggo/swag v1.16.4
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
 	// gorm.io/driver/postgres v1.3.8
 	gorm.io/driver/sqlite v1.2.4
