@@ -13,7 +13,7 @@ require (
 	github.com/swaggo/swag v1.8.3
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
 	// gorm.io/driver/postgres v1.3.8
-	gorm.io/driver/sqlite v1.2.4
+	gorm.io/driver/sqlite v1.5.7
 	gorm.io/gorm v1.23.6
 )
 
