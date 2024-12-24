@@ -8,7 +8,7 @@ require (
 	github.com/gofiber/jwt/v3 v3.2.1
 	github.com/gofiber/swagger v0.0.1
 	github.com/golang-jwt/jwt/v4 v4.1.0
-	github.com/gosimple/slug v1.11.2
+	github.com/gosimple/slug v1.15.0
 	github.com/stretchr/testify v1.7.0
 	github.com/swaggo/swag v1.8.3
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
