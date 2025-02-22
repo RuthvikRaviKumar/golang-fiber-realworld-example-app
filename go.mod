@@ -11,7 +11,7 @@ require (
 	github.com/gosimple/slug v1.11.2
 	github.com/stretchr/testify v1.7.0
 	github.com/swaggo/swag v1.8.3
-	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
+	golang.org/x/crypto v0.34.0
 	// gorm.io/driver/postgres v1.3.8
 	gorm.io/driver/sqlite v1.2.4
 	gorm.io/gorm v1.23.6
